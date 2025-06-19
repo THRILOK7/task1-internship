@@ -1,0 +1,10 @@
+NAME,AGE,GENDER,CITY
+John,25,male,delhi
+john,,MALE,Delhi
+priya,30,female,mumbai
+sharma,35,male,Mumbai
+arjun,32,male,banglore
+arjun,,,chennai
+meena,,F,chennai
+rani ,25,,chennai
+kumar,26,M ,Chennai
